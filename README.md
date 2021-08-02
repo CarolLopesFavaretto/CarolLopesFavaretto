@@ -20,7 +20,7 @@ Oi! Eu sou a Caroline Lopes Favaretto!
  
 </div>
   
-    ##
+   <hr>
  
 <div> 
   
@@ -28,4 +28,3 @@ Oi! Eu sou a Caroline Lopes Favaretto!
   <a href="https://www.linkedin.com/in/caroline-lopes-favaretto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
-</div>
