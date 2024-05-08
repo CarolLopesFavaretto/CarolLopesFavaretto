@@ -1,6 +1,6 @@
 Oi! Eu sou a Caroline Lopes Favaretto!
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolLopesFavaretto&show_icons=true&theme=dracula ) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolLopesFavaretto&layout=compact&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolLopesFavaretto&layout=compact&theme=dracula)
   
   </div>
 <div style="display: inline_block"><br>
